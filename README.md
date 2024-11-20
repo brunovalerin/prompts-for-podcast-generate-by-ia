@@ -1,5 +1,5 @@
 
-# Projeto: Podcast Gerado por I.A.s
+# Project: AI Generated POdcast
 [PORTUGUESE VERSION](https://github.com/brunovalerin/prompts-for-podcast-generate-by-ia)
 
 
@@ -26,7 +26,7 @@
 
 📚 ChatGPT：
 
-|   Ação   | Prompt                                                                                            |                           
+|   Action   | Prompt                                                                                            |                           
 | :------: | ------------------------------------------------------------------------------------------------- |
 |  Title  | You are a branding professional and you must create a name and subtitle for a podcast. The topic of the program is data analysis and its goal is to attract new professionals to the area and also show news and trends in the market. Rules: Give me 10 options. The name must have a maximum of 3 words. The name cannot mention any specific software. The name must include words in Portuguese |
 | Content | You are a scriptwriter and need to write a podcast called "Data Brasil - Connecting you to trends and opportunities in data analysis". The focus of the program is to attract new professionals to the area and also show news and market trends. Rules: The episode has a maximum duration of 5 minutes. It is presented by a man and a woman. The episode has an introduction, news, tips and a conclusion. The language must be attractive and easy to understand. |
@@ -36,7 +36,7 @@
 
 🖼️ RunWay：
 
-|  Ação  | Prompt                                                                                 |
+|  Action  | Prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
 | Cover | Mixed brazilian man and woman on a studio podcast with table and microphone, business clothing, photorealistic, studio lighting. |
 
