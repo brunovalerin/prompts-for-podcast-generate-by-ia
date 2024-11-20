@@ -1,6 +1,6 @@
 
 # Projeto: Podcast Gerado por I.A.s
-[ENGLISH VERSION](https://github.com/brunovalerin/ebook-fast-cut-ai/tree/en_us)
+[ENGLISH VERSION](https://github.com/brunovalerin/prompts-for-podcast-generate-by-ia/tree/en_us)
 
 
  > NOTA: Este repositório foi desenvolvido como um exercício de engenharia de prompt durante o bootcamp 'IA Generativa com Microsoft Copilot' da Caixa na plataforma da [DIO](https://dio.me)
